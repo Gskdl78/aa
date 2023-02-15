@@ -1,0 +1,8 @@
+{
+    "arduino.commandPath": "arduino_debug.exe",
+    "arduino.path": "C:\\Program Files (X86)\\arduino",
+    "arduino.additionalUrls": [
+        "https://arduino.esp8266.com/stable/pa...",
+       "https://dl.espressif.com/dl/package_e..."
+   ]
+}
